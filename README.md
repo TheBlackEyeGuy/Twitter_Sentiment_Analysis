@@ -12,8 +12,8 @@ To use this simple application, follow steps in ordered fashion as indicated bel
 4. Generate **access_token**, button stacked just below your **consumer_token**
 5. Install tweepy, textblob :
 
- - `pip install -U tweepy`
- - `pip install -U textblob`
+ - `pip3 install -U tweepy`
+ - `pip3 install -U textblob`
 
 6. Download nltk corpora
 
@@ -21,5 +21,5 @@ To use this simple application, follow steps in ordered fashion as indicated bel
 
 7. Finally run `python3 run.py`
 
-###### Credits
+## Credits
 Here all the credit goes to @llSourcell whose teaching is true inspiration to me.
