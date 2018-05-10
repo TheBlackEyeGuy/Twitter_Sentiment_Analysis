@@ -6,7 +6,7 @@ This app simply analyses the tweets based on emotions, positivity, negativity, n
 # Dependencies
 To use this simple application, follow steps in ordered fashion as indicated below :
 
-1. Sign in into your twitter account
+1. Sign in into your twitter account : [*Sign in or Sign up*](https://twitter.com/)
 2. Set-up twitter app at : [*Twitter Application Manager*](https://apps.twitter.com/)
 3. Fill up the details of your app
 4. Generate **access_token**, button stacked just below your **consumer_token**
