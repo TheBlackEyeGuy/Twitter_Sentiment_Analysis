@@ -12,12 +12,12 @@ To use this simple application, follow steps in ordered fashion as indicated bel
 4. Generate **access_token**, button stacked just below your **consumer_token**
 5. Install tweepy, textblob :
 
-`pip install -U tweepy`
-`pip install -U textblob`
+ - `pip install -U tweepy`
+ - `pip install -U textblob`
 
 6. Download nltk corpora
 
-`python3 -m textblob.download_corpora`
+ - `python3 -m textblob.download_corpora`
 
 7. Finally run `python3 run.py`
 
